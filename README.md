@@ -75,7 +75,7 @@ I'm ZeitVex — a senior undergraduate and robotics enthusiast. I have full-stac
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zeitvex&theme=radical&hide_border=false" alt="ZeitVex's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zeitvex&theme=tokyonight&hide_border=false" alt="ZeitVex's GitHub Streak" />
 </p>
 
 ---
