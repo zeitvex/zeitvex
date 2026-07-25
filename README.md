@@ -21,7 +21,7 @@ I'm ZeitVex — a senior undergraduate and robotics enthusiast. I have full-stac
   <summary><b>中文版个人简介 (Click to expand)</b></summary>
   <p>你好，我是 <b>时维 (ZeitVex)</b>，本科大四在读，机器人开发爱好者。</p>
   <p>我具有机器人的全栈研发经验，从机械到硬件，再到具体软件，我相信我的这些经验会让我在这条道路上走得更远。</p>
-  <p>我曾获 全国大学生电子设计竞赛 国家一等奖 · 全国大学生机器人大赛ROBOCON 国家一等奖</p>
+  <p>🏅 全国大学生电子设计竞赛 国家一等奖 · 全国大学生机器人大赛ROBOCON 国家一等奖</p>
 </details>
 
 <i style="color: #007acc; display: inline;">Always open to collaborate on open-source robotics projects or interesting technical challenges!</i>
