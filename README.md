@@ -3,10 +3,10 @@
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+ZeitVex;Embedded+%26+Robotics+Developer;ROS+%7C+RL+%7C+SLAM+%7C+Embedded)](https://git.io/typing-svg)
 
   <a href="https://zeitvex.com/">
-    <img src="https://img.shields.io/badge/Personal_Website-zeitvex.com-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Personal_Website-zeitvex.com-0A82FF?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="https://github.com/zeitvex">
-    <img src="https://img.shields.io/badge/GitHub-@zeitvex-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-@zeitvex-0A2463?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
 </div>
@@ -81,5 +81,5 @@ I'm ZeitVex — a senior undergraduate and robotics enthusiast. I have full-stac
 ---
 
 <p align="center"> 
-  "Building robots that move, see, and think — one commit at a time." 🤖
+  <span style="color:#00BFFF;">"Building robots that move, see, and think — one commit at a time."</span> 🤖
 </p>
